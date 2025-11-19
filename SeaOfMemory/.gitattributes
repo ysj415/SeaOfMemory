@@ -1,0 +1,9 @@
+SeaOfMemofy/Saved/Cooked/Windows/SeaOfMemory/Content/Pirate_Ship/Ship/Pirate_Ship_SM.uexp filter=lfs diff=lfs merge=lfs -text
+SeaOfMemorySavedStagedBuildsWindowsSeaOfMemoryBinariesWin64SeaOfMemory.pdb filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Saved/StagedBuilds/Windows/SeaOfMemory/Binaries/Win64/SeaOfMemory.pdb filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Saved/StagedBuilds/Windows/SeaOfMemory/Content/Paks/SeaOfMemory-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+SeaOfMemoryPackge/Windows/SeaOfMemory/Binaries/Win64/SeaOfMemory/pdb filter=lfs diff=lfs merge=lfs -text
+SeaOfMemoryPackge/Windows/SeaOfMemory/Content/Paks/SeaOfMemory-Windows/ucas filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text
+*.ucas filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text

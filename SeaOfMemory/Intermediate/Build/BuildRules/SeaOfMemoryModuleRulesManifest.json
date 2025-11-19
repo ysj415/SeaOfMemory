@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\SeaOfMemory\\SeaOfMemory\\Source\\SeaOfMemory\\SeaOfMemory.Build.cs",
+		"C:\\SeaOfMemory\\SeaOfMemory\\Plugins\\AnimToTexture\\Source\\AnimToTextureEditor\\AnimToTextureEditor.Build.cs",
+		"C:\\SeaOfMemory\\SeaOfMemory\\Plugins\\AnimToTexture\\Source\\AnimToTexture\\AnimToTexture.Build.cs",
+		"C:\\SeaOfMemory\\SeaOfMemory\\Source\\SeaOfMemory.Target.cs",
+		"C:\\SeaOfMemory\\SeaOfMemory\\Source\\SeaOfMemoryEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

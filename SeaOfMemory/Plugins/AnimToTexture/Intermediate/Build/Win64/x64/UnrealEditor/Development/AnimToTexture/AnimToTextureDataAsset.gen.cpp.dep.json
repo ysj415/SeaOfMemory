@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealeditor\\inc\\animtotexture\\uht\\animtotexturedataasset.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\seaofmemory\\seaofmemory\\intermediate\\build\\win64\\x64\\seaofmemoryeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\animtotexture\\definitions.animtotexture.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\public\\animtotexturedataasset.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealeditor\\inc\\animtotexture\\uht\\animtotexturedataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

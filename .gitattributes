@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+SeaOfMemory/Content/MetaHumans/ady_metahuman/Face/ady_metahuman_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Content/Priate_Ship/Ship/Pirate_Ship_BaseColor_Tex.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Content/Priate_Ship/Ship/Pirate_Ship_Normal_Tex.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Content/Pirate_Ship/Ship/Pirate_Ship_OcclusionRoughnessMetallic_Tex.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Intermediate/ProjectFiles/UE5.vcxproj filter=lfs diff=lfs merge=lfs -text
+SeaOfMemroy/Content/Pirate_Ship/Ship/Pirate_Ship_BaseColor_Tex.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemroy/Content/Pirate_Ship/Ship/Pirate_Ship_Normal_Tex.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Content/Pirate_Ship/Ship/Pirate_Ship_BaseColor_Tex.uasset filter=lfs diff=lfs merge=lfs -text
+SeaOfMemory/Content/Pirate_Ship/Ship/Pirate_Ship_Normal_Tex.uasset filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AnimToTextureEditor-0008.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\SeaOfMemoryEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTextureEditor\Module.AnimToTextureEditor.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTextureEditor\Default.rc2.res"
+/OUT:"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTextureEditor\UnrealEditor-AnimToTextureEditor-0008.lib"

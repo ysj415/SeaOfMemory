@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SeaOfMemory.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\SeaOfMemoryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeaOfMemory\Module.SeaOfMemory.1_of_4.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeaOfMemory\Module.SeaOfMemory.2_of_4.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeaOfMemory\Module.SeaOfMemory.3_of_4.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeaOfMemory\Module.SeaOfMemory.4_of_4.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeaOfMemory\Default.rc2.res"
+/OUT:"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeaOfMemory\UnrealEditor-SeaOfMemory.lib"

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AnimToTexture-0023.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\SeaOfMemory\SeaOfMemory\Intermediate\Build\Win64\x64\SeaOfMemoryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTexture\Module.AnimToTexture.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTexture\AnimToTexture.init.gen.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTexture\AnimToTextureDataAsset.gen.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTexture\AnimToTextureInstancePlaybackHelpers.gen.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTexture\EvaluateSequenceAnimInstance.gen.cpp.obj"
+"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTexture\Default.rc2.res"
+/OUT:"C:\SeaOfMemory\SeaOfMemory\Plugins\AnimToTexture\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimToTexture\UnrealEditor-AnimToTexture-0023.lib"

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SeaOfMemory.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SeaOfMemory.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SeaOfMemoryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AnimToTexture">
+      <UniqueIdentifier>{4256B03D-B276-3C9F-8DC0-DCFBFDB0AA3E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AnimToTexture\Source">
+      <UniqueIdentifier>{B3B4F8F9-B00B-3E2A-A547-D3A6D35886B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AnimToTexture\Source\AnimToTextureEditor">
+      <UniqueIdentifier>{EB6940ED-BE1C-3737-A310-E6F2033556F0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\AnimToTextureEditor.Build.cs">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor</Filter>
+    </None>
+    <Filter Include="Plugins\AnimToTexture\Source\AnimToTextureEditor\Private">
+      <UniqueIdentifier>{1435FA51-F1A0-3A5A-8EA6-14B6AC5289F7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Private\AnimToTextureBPLibrary.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Private\AnimToTextureEditor.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Private\AnimToTextureMeshMapping.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Private\AnimToTextureSkeletalMesh.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Private\AnimToTextureUtils.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AnimToTexture\Source\AnimToTextureEditor\Public">
+      <UniqueIdentifier>{59375394-1C3F-3294-8F3E-9FCD7F859D8F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Public\AnimToTextureBPLibrary.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Public\AnimToTextureEditor.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Public\AnimToTextureMeshMapping.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Public\AnimToTextureSkeletalMesh.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTextureEditor\Public\AnimToTextureUtils.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTextureEditor\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AnimToTexture\AnimToTexture.uplugin">
+      <Filter>Plugins\AnimToTexture</Filter>
+    </None>
+    <Filter Include="Plugins\AnimToTexture\Config">
+      <UniqueIdentifier>{DE8ACC82-96E0-3AD3-9A6E-22E692BA1188}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimToTexture\Config\DefaultAnimToTexture.ini">
+      <Filter>Plugins\AnimToTexture\Config</Filter>
+    </None>
+    <Filter Include="Plugins\AnimToTexture\Source\AnimToTexture">
+      <UniqueIdentifier>{A96B4541-FA0F-3306-BD04-0629A70BD097}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\AnimToTexture.Build.cs">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture</Filter>
+    </None>
+    <Filter Include="Plugins\AnimToTexture\Source\AnimToTexture\Private">
+      <UniqueIdentifier>{2D91B45C-1652-396C-8797-657E353F7802}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Private\AnimToTexture.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Private\AnimToTextureDataAsset.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Private\AnimToTextureInstancePlaybackHelpers.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Private\EvaluateSequenceAnimInstance.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Private\LightweightMontageInstance.cpp">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AnimToTexture\Source\AnimToTexture\Public">
+      <UniqueIdentifier>{6887D471-32EB-3C3A-A837-3ECB541EAAB6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Public\AnimToTexture.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Public\AnimToTextureDataAsset.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Public\AnimToTextureInstancePlaybackHelpers.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Public\EvaluateSequenceAnimInstance.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimToTexture\Source\AnimToTexture\Public\LightweightMontageInstance.h">
+      <Filter>Plugins\AnimToTexture\Source\AnimToTexture\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\SeaOfMemory">
+      <UniqueIdentifier>{ADD82087-46AF-3003-9EBE-2A8AF5F6F91A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SeaOfMemory\CharacterABAnimInstance.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\CharacterABAnimInstance.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\FishSwarmSubsystem.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\FishSwarmSubsystem.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\IA_Movement.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\IA_Movement.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\IMC_BaseCaracterMapping.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\IMC_BaseCaracterMapping.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\MyPlayerController.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\MyPlayerController.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\MyWaterBodyOcean.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\MyWaterBodyOcean.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SeaOfMemory\SeaOfMemory.Build.cs">
+      <Filter>Source\SeaOfMemory</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SeaOfMemory\SeaOfMemory.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\SeaOfMemory.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\SeaOfMemoryGameModeBase.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\SeaOfMemoryGameModeBase.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\SOMBaseCharacter.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\SOMBaseCharacter.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\SpeciesRelationshipManager.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\SpeciesRelationshipManager.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SeaOfMemory\SwarmIntelligenceTrait.cpp">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SeaOfMemory\SwarmIntelligenceTrait.h">
+      <Filter>Source\SeaOfMemory</Filter>
+    </ClInclude>
+    <Filter Include="Source\SeaOfMemory\Private">
+      <UniqueIdentifier>{2AF95E52-A444-3C6A-9E4C-93872898B9FD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\Bait.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\BehaviorMassProcessor.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\CameraWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\CharacterWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\CollectionWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\CoordinateConversion.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\CreateISMProcessor.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\FishInitializerProcessor.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\FishTargetInitializerProcessor.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\IllustratedGuideSubsystem.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\ImageLoader.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\ImageSubsystem.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\ImageUserWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\MassageSubsystem.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\MesageWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\MessageListButton.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\MyGameInstance.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\NewCollectionWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\NewMessageWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\OAuthUtils.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\PhotoButton.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\Repellent.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\SkillSubsystem.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\SkillUserWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\SNSDataSubsystem.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\SOMGameDataBase.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\SpeciesType.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\SplashSoundNotify.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\StorySubsystem.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\SwimSoundNotify.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\TurnNotify.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\UGridSubsystem.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\UnderWaterMovementAnimNotify.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SeaOfMemory\Private\WebViewWidget.cpp">
+      <Filter>Source\SeaOfMemory\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SeaOfMemory\Public">
+      <UniqueIdentifier>{3B8EB91F-4D25-3AFB-B573-DDFE73462A9D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\Bait.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\BehaviorMassProcessor.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\CameraWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\CharacterWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\CollectionWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\CoordinateConversion.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\CreateISMProcessor.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\FishInitializerProcessor.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\FishTargetInitializerProcessor.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\IllustratedGuideSubsystem.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\ImageLoader.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\ImageSubsystem.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\ImageUserWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\MassageSubsystem.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\MesageWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\MessageListButton.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\MyGameInstance.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\NewCollectionWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\NewMessageWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\OAuthUtils.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\PhotoButton.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\Repellent.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\SkillSubsystem.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\SkillUserWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\SNSDataSubsystem.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\SOMGameDataBase.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\SpeciesType.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\SplashSoundNotify.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\StorySubsystem.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\SwimSoundNotify.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\TurnNotify.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\UGridSubsystem.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\UnderWaterMovementAnimNotify.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SeaOfMemory\Public\WebViewWidget.h">
+      <Filter>Source\SeaOfMemory\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealeditor\\inc\\animtotextureeditor\\uht\\animtotexturebplibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\seaofmemory\\seaofmemory\\intermediate\\build\\win64\\x64\\seaofmemoryeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\animtotextureeditor\\definitions.animtotextureeditor.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotextureeditor\\public\\animtotexturebplibrary.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\public\\animtotexturedataasset.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animinstance.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animmontage.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\alphablend.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\alphablend.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animcompositebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animcompositebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\timestretchcurve.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\timestretchcurve.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animmontage.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\animation\\animsubsysteminstance.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animsubsysteminstance.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\animation\\animsync.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotify.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnotify.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animinstance.generated.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealeditor\\inc\\animtotexture\\uht\\animtotexturedataasset.generated.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotextureeditor\\public\\animtotexturemeshmapping.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotextureeditor\\public\\animtotextureskeletalmesh.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealeditor\\inc\\animtotextureeditor\\uht\\animtotexturebplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

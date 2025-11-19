@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\x64\\unrealgame\\development\\animtotexture\\module.animtotexture.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\seaofmemory\\seaofmemory\\intermediate\\build\\win64\\x64\\seaofmemory\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\x64\\unrealgame\\development\\animtotexture\\definitions.animtotexture.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealgame\\inc\\animtotexture\\uht\\animtotexture.init.gen.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealgame\\inc\\animtotexture\\uht\\animtotexturedataasset.gen.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\public\\animtotexturedataasset.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealgame\\inc\\animtotexture\\uht\\animtotexturedataasset.generated.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealgame\\inc\\animtotexture\\uht\\animtotextureinstanceplaybackhelpers.gen.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\public\\animtotextureinstanceplaybackhelpers.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\instancedstaticmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstancemanager.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstanceelementid.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\instancedstaticmeshdelegates.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\sminstanceelementid.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\sminstancemanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\primitiveinstanceupdatecommand.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\instancedstaticmeshcomponent.generated.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealgame\\inc\\animtotexture\\uht\\animtotextureinstanceplaybackhelpers.generated.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealgame\\inc\\animtotexture\\uht\\evaluatesequenceaniminstance.gen.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\public\\evaluatesequenceaniminstance.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\intermediate\\build\\win64\\unrealgame\\inc\\animtotexture\\uht\\evaluatesequenceaniminstance.generated.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\private\\animtotexture.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\public\\animtotexture.h",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\private\\animtotexturedataasset.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\private\\animtotextureinstanceplaybackhelpers.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\private\\evaluatesequenceaniminstance.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\private\\lightweightmontageinstance.cpp",
+            "c:\\seaofmemory\\seaofmemory\\plugins\\animtotexture\\source\\animtotexture\\public\\lightweightmontageinstance.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

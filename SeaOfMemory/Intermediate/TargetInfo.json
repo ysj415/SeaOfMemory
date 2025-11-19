@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SeaOfMemory",
+			"Path": "C:\\SeaOfMemory\\SeaOfMemory\\Source\\SeaOfMemory.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SeaOfMemoryEditor",
+			"Path": "C:\\SeaOfMemory\\SeaOfMemory\\Source\\SeaOfMemoryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
